@@ -1,2 +1,2 @@
 # bias-irl
-Support for "Measuring Bias in Practice" paper
+Support for "Estimating Bias in Practice" paper
