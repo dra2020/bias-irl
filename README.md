@@ -1,2 +1,2 @@
 # bias-irl
-Support for "Estimating Bias in Practice" paper
+Supplementary Matierial for "Estimating Partisan Bias in Practice" paper
