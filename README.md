@@ -1,2 +1,2 @@
 # bias-irl
-Supplementary Matierial for "Estimating Partisan Bias in Practice" paper
+Supplementary Matierial for "Estimating Partisan Advantage" paper
