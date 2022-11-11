@@ -1,2 +1,2 @@
 # bias-irl
-Supplementary Matierial for "Estimating Partisan Advantage" paper
+Supplementary Matierial for @alecramsay's "Estimating Partisan Advantage" paper (forthcoming in Election Law Journal).
